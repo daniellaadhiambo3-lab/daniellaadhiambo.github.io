@@ -32,9 +32,6 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
 
 I am a Land Surveyor and Drone Pilot with a background in land surveying and a growing focus on GIS, drone mapping, and spatial data analysis. I specialize in geospatial data collection and modern mapping technologies, using innovative tools to produce accurate spatial information that supports planning and informed decision-making. I am particularly interested in integrating modern survey technology, GIS, and mapping systems to develop efficient solutions for real-world spatial challenges. Beyond technical practice, I enjoy sharing knowledge, engaging with diverse audiences, and contributing to professional growth while continuously expanding my expertise in geospatial innovation and advanced spatial analysis.
 
@@ -61,8 +58,6 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 
 **Technical Skills**
 
-    ---
-
     - Geographic Information Systems (GIS)
     - Land Surveying
     - Remote Sensing
@@ -71,9 +66,7 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
     - Spatial Data Analysis
 
 
-  **GIS SKILLS**
-
-    ---
+**GIS SKILLS**
 
 - Spatial Data Analysis
 - Geospatial Data Collection
@@ -88,8 +81,6 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 
 **Land Survey Skills**
 
-    ---
-
 - GPS & GNSS Surveying
 - Map Interpretation 
 - Topographic Mapping
@@ -97,8 +88,6 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 - AutoCAD
 
 **Drone Mapping and UAV Operations**
-
-    ---
     
 - Image Processing
 - Mission Planning and Flight Operations
@@ -107,11 +96,8 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 - Photogrammetry
 - Remote Sensing
   
-
-   **Professional Skills**
-
-    ---
-
+**Professional Skills**
+ 
 - Communication
 - Team Collaboration
 - Problem Solving
