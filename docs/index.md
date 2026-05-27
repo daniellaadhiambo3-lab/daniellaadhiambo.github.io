@@ -58,12 +58,12 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 
 **Technical Skills**
 
-    - Geographic Information Systems (GIS)
-    - Land Surveying
-    - Remote Sensing
-    - Image Processing
-    - Drone Mapping and UAV Operations
-    - Spatial Data Analysis
+- Geographic Information Systems (GIS)
+- Land Surveying
+- Remote Sensing
+- Image Processing
+- Drone Mapping and UAV Operations
+- Spatial Data Analysis
 
 
 **GIS SKILLS**
