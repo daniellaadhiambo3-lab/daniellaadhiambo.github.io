@@ -108,7 +108,6 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 - Project Coordination
 
 
-    - 
 </div>
 
 
