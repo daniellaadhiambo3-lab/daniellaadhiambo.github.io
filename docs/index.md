@@ -59,7 +59,7 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **Technical Skills**
+**Technical Skills**
 
     ---
 
@@ -71,7 +71,7 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
     - Spatial Data Analysis
 
 
--   :material-code-braces:{ .lg .middle } **GIS SKILLS**
+  **GIS SKILLS**
 
     ---
 
@@ -86,7 +86,7 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 - Google Earth Pro
 
 
--   :material-star-four-points:{ .lg .middle } **Land Survey Skills**
+**Land Survey Skills**
 
     ---
 
@@ -96,7 +96,7 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 - Field Data Collection
 - AutoCAD
 
--   :material-earth:{ .lg .middle } **Drone Mapping and UAV Operations**
+**Drone Mapping and UAV Operations**
 
     ---
     
@@ -108,7 +108,7 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 - Remote Sensing
   
 
--   :material-database:{ .lg .middle } **Professional Skills**
+   **Professional Skills**
 
     ---
 
