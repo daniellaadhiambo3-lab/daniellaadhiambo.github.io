@@ -20,9 +20,9 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <h1>Daniella Grace Adhiambo</h1>
+  <p><strong>Land Surveyor | Licensed Drone Pilot</strong></p>
+  <p><em>Smart Mapping for a Changing World | Land Survey | Drone Mapping | GIS </em></p>
 </div>
 
 ---
@@ -36,11 +36,8 @@ CHECKLIST FOR THIS PAGE:
 what you specialize in, the kinds of problems you work on, the tools and methods you use,
 and what you are currently looking for. Example below:]
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+I am a Land Surveyor and Drone Pilot with a background in land surveying and a growing focus on GIS, drone mapping, and spatial data analysis. I specialize in geospatial data collection and modern mapping technologies, using innovative tools to produce accurate spatial information that supports planning and informed decision-making. I am particularly interested in integrating modern survey technology, GIS, and mapping systems to develop efficient solutions for real-world spatial challenges. Beyond technical practice, I enjoy sharing knowledge, engaging with diverse audiences, and contributing to professional growth while continuously expanding my expertise in geospatial innovation and advanced spatial analysis.
+
 
 </div>
 
@@ -62,55 +59,71 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+-   :material-layers:{ .lg .middle } **Technical Skills**
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - Geographic Information Systems (GIS)
+    - Land Surveying
+    - Remote Sensing
+    - Image Processing
+    - Drone Mapping and UAV Operations
+    - Spatial Data Analysis
 
--   :material-code-braces:{ .lg .middle } **Programming**
 
-    ---
-
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
-
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
+-   :material-code-braces:{ .lg .middle } **GIS SKILLS**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
+- Spatial Data Analysis
+- Geospatial Data Collection
+- Cartography & Map Design
+- Map Interpretation 
+- Spatial Intelligence
+- Digital Mapping
+- QGIS
+- ArcGIS
+- Google Earth Pro
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
-    ---
-
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
-
--   :material-database:{ .lg .middle } **Data & Cloud**
+-   :material-star-four-points:{ .lg .middle } **Land Survey Skills**
 
     ---
 
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+- GPS & GNSS Surveying
+- Map Interpretation 
+- Topographic Mapping
+- Field Data Collection
+- AutoCAD
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+-   :material-earth:{ .lg .middle } **Drone Mapping and UAV Operations**
 
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    ---
+    
+- Image Processing
+- Mission Planning and Flight Operations
+- Pix4D
+- Drone Deploy
+- Photogrammetry
+- Remote Sensing
+  
+
+-   :material-database:{ .lg .middle } **Professional Skills**
+
+    ---
+
+- Communication
+- Team Collaboration
+- Problem Solving
+- Attention to Detail
+- Time Management
+- Adaptability
+- Leadership
+- Project Coordination
+
+-   :material-airplane:{ .lg .middle } ****
+
+    - 
 </div>
 
 
