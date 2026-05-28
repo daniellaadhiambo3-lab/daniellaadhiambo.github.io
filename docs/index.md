@@ -5,9 +5,9 @@ hide:
 ---
 <!--
 CHECKLIST FOR THIS PAGE:
-- [ ] Replace [YOUR NAME] with your full name (3 places)
-- [ ] Replace [YOUR JOB TITLE] with your current or target role
-- [ ] Replace [YOUR TAGLINE] with a short phrase describing your focus
+- [ ] Replace [Daniella Grace Adhiambo] with your full name (3 places)
+- [ ] Replace [Land Surveyor and Licensed Drone Pilot] with your current or target role
+- [ ] Replace [Smart Mapping for a Changing World] with a short phrase describing your focus
 - [ ] Rewrite the About Me paragraph with your own words
 - [ ] Replace assets/images/profile.png with your actual photo (keep the filename or update it below)
 - [ ] Replace assets/images/about.png with your own image (a field photo, map, or workspace shot)
@@ -20,9 +20,9 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <h1>Daniella Grace Adhiambo</h1>
+  <p><strong>Land Surveyor and Licensed Drone Pilot</strong></p>
+  <p><em>Smart Mapping for a Changing World</em></p>
 </div>
 
 ---
@@ -32,15 +32,10 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
 
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+
+I am a Land Surveyor and Drone Pilot with a background in land surveying and a growing focus on GIS, drone mapping, and spatial data analysis. I specialize in geospatial data collection and modern mapping technologies, using innovative tools to produce accurate spatial information that supports planning and informed decision-making. I am particularly interested in integrating modern survey technology, GIS, and mapping systems to develop efficient solutions for real-world spatial challenges. Beyond technical practice, I enjoy sharing knowledge, engaging with diverse audiences, and contributing to professional growth while continuously expanding my expertise in geospatial innovation and advanced spatial analysis.
+
 
 </div>
 
@@ -53,7 +48,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Daniella_Grace_Adhiambo_CV.pdf)sSS{ .md-button }
 
 
 ---
