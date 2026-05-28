@@ -19,10 +19,10 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
+  <img src="assets/images/profile.png" alt="Daniella Grace Adhiambo" class="profile-photo">
   <h1>Daniella Grace Adhiambo</h1>
-  <p><strong>Land Surveyor and Licensed Drone Pilot</strong></p>
-  <p><em>Smart Mapping for a Changing World</em></p>
+  <p><strong>Land Surveyor | Licensed Drone Pilot</strong></p>
+  <p><em>Smart Mapping for a Changing World|Land Survey|Drone Mapping|GIS</em></p>
 </div>
 
 ---
@@ -48,7 +48,7 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/Daniella_Grace_Adhiambo_CV.pdf)sSS{ .md-button }
+[Download CV :material-download:](assets/Daniella_Grace_Adhiambo_CV.pdf){ .md-button }
 
 
 ---
@@ -57,49 +57,65 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+- **Technical Skills**
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - Geographic Information Systems (GIS)
+    - Land Surveying
+    - Remote Sensing
+    - Image Processing
+    - Drone Mapping and UAV Operations
+    - Spatial Data Analysis 
 
--   :material-code-braces:{ .lg .middle } **Programming**
 
-    ---
-
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
-
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
+-   :material-code-braces:{ .lg .middle } **GIS Skills**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
+    - Geospatial Data Collection
+    - Cartography & Map Design
+    - Map Interpretation
+    - Spatial Intelligence
+    - Digital Mapping
+    - QGIS
+    - ArcGIS
+    - Google Earth Pro
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
-    ---
-
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
-
--   :material-database:{ .lg .middle } **Data & Cloud**
+-   :material-star-four-points:{ .lg .middle } **Land Survey Skills**
 
     ---
 
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - Topographic Survey
+    - GPS & GNSS Surveying
+    - Map Interpretation
+    - Field Data Collection
+    - AutoCAD
+
+-   :material-earth:{ .lg .middle } **Drone Mapping and UAV Operations**
+
+    ---
+
+    - Image Processing
+    - Mission Planning and Flight Operations
+    - Pix4D
+    - Drone Deploy
+    - Photogrammetry
+    - Remote Sensing
+
+**Professional Skills** 
+
+    ---
+   - communication
+   - Team Collaboration
+   - Problem Solving
+   - Attention to Detail
+   - Time Management
+   - Adaptability
+   - Leadership
+   - Project Coordination
+
 
 -   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
 
@@ -113,5 +129,5 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/daniallaadhiambo3-lab){ .md-button }
+[LinkedIn](https://linkedin.com/in/Daniella (Grace) Adhiambo)ssss{ .md-button }
