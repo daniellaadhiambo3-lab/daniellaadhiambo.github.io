@@ -1,51 +1,29 @@
+```md
 ---
 hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace [Your Name] with your full name (3 places)
-- [ ] Replace [] with your current or target role
-- [ ] Replace [ss] with a short phrase describing your focus
-- [ ] Rewrite the About Me paragraph with your own words
-- [ ] Replace assets/images/profile.png with your actual photo (keep the filename or update it below)
-- [ ] Replace assets/images/about.png with your own image (a field photo, map, or workspace shot)
-- [ ] Edit the skill cards to match your actual skills (add, remove, or rename cards as needed)
-- [ ] Update GitHub and LinkedIn links in the Connect section
-- [ ] Add your CV PDF to docs/assets/ and update the filename in the Download CV button
--->
-
-
 
 <div class="hero">
-<<<<<<< HEAD
   <img src="assets/images/profile.png" alt="Daniella Grace Adhiambo" class="profile-photo">
-  <h1>Daniella Grace Adhiambo</h1>
-  <p><strong>Land Surveyor | Licensed Drone Pilot</strong></p>
-  <p><em>Smart Mapping for a Changing World|Land Survey|Drone Mapping|GIS</em></p>
-=======
-  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>Daniella Grace Adhiambo</h1>
-  <p><strong>Land Surveyor | Licensed Drone Pilot</strong></p>
-  <p><em>Smart Mapping for a Changing World | Land Survey | Drone Mapping | GIS </em></p>
->>>>>>> 27b754d98fbdd2486a2eb8b04f1544056fe9a4d8
-</div>
 
----
+  <h1>Daniella Grace Adhiambo</h1>
+
+  <p><strong>Land Surveyor | Licensed Drone Pilot</strong></p>
+
+  <p><em>Smart Mapping for a Changing World | Land Survey | Drone Mapping | GIS</em></p>
+</div>
 
 ## About Me
 
 <div class="about-section" markdown>
+
 <div class="about-text" markdown>
 
+I am a Land Surveyor and Licensed Drone Pilot with a strong background in land surveying and a growing specialization in GIS, drone mapping, and spatial data analysis. I focus on geospatial data collection and modern mapping technologies to produce accurate spatial information that supports planning and informed decision-making.
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 27b754d98fbdd2486a2eb8b04f1544056fe9a4d8
-I am a Land Surveyor and Drone Pilot with a background in land surveying and a growing focus on GIS, drone mapping, and spatial data analysis. I specialize in geospatial data collection and modern mapping technologies, using innovative tools to produce accurate spatial information that supports planning and informed decision-making. I am particularly interested in integrating modern survey technology, GIS, and mapping systems to develop efficient solutions for real-world spatial challenges. Beyond technical practice, I enjoy sharing knowledge, engaging with diverse audiences, and contributing to professional growth while continuously expanding my expertise in geospatial innovation and advanced spatial analysis.
-
+My interests lie in integrating modern survey technology, GIS, and mapping systems to develop efficient solutions for real-world spatial challenges. Beyond technical practice, I enjoy sharing knowledge, engaging with diverse audiences, and continuously expanding my expertise in geospatial innovation and advanced spatial analysis.
 
 </div>
 
@@ -55,11 +33,8 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 
 </div>
 
----
-
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
 [Download CV :material-download:](assets/Daniella_Grace_Adhiambo_CV.pdf){ .md-button }
-
 
 ---
 
@@ -67,11 +42,7 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 
 <div class="grid cards" markdown>
 
-<<<<<<< HEAD
-- **Technical Skills**
-=======
-**Technical Skills**
->>>>>>> 27b754d98fbdd2486a2eb8b04f1544056fe9a4d8
+### Technical Skills
 
 - Geographic Information Systems (GIS)
 - Land Surveying
@@ -80,102 +51,36 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 - Drone Mapping and UAV Operations
 - Spatial Data Analysis
 
-<<<<<<< HEAD
-    - Geographic Information Systems (GIS)
-    - Land Surveying
-    - Remote Sensing
-    - Image Processing
-    - Drone Mapping and UAV Operations
-    - Spatial Data Analysis 
-
-
--   :material-code-braces:{ .lg .middle } **GIS Skills**
-=======
-
-**GIS SKILLS**
->>>>>>> 27b754d98fbdd2486a2eb8b04f1544056fe9a4d8
+### GIS Skills
 
 - Spatial Data Analysis
 - Geospatial Data Collection
 - Cartography & Map Design
-- Map Interpretation 
+- Map Interpretation
 - Spatial Intelligence
 - Digital Mapping
 - QGIS
 - ArcGIS
 - Google Earth Pro
 
-<<<<<<< HEAD
-    - Geospatial Data Collection
-    - Cartography & Map Design
-    - Map Interpretation
-    - Spatial Intelligence
-    - Digital Mapping
-    - QGIS
-    - ArcGIS
-    - Google Earth Pro
-
-
--   :material-star-four-points:{ .lg .middle } **Land Survey Skills**
-=======
-
-**Land Survey Skills**
->>>>>>> 27b754d98fbdd2486a2eb8b04f1544056fe9a4d8
+### Land Survey Skills
 
 - GPS & GNSS Surveying
-- Map Interpretation 
 - Topographic Mapping
 - Field Data Collection
 - AutoCAD
 
-<<<<<<< HEAD
-    - Topographic Survey
-    - GPS & GNSS Surveying
-    - Map Interpretation
-    - Field Data Collection
-    - AutoCAD
+### Drone Mapping & UAV Operations
 
--   :material-earth:{ .lg .middle } **Drone Mapping and UAV Operations**
-
-    ---
-
-    - Image Processing
-    - Mission Planning and Flight Operations
-    - Pix4D
-    - Drone Deploy
-    - Photogrammetry
-    - Remote Sensing
-
-**Professional Skills** 
-
-    ---
-   - communication
-   - Team Collaboration
-   - Problem Solving
-   - Attention to Detail
-   - Time Management
-   - Adaptability
-   - Leadership
-   - Project Coordination
-
-
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
-
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
-=======
-**Drone Mapping and UAV Operations**
-    
-- Image Processing
 - Mission Planning and Flight Operations
-- Pix4D
-- Drone Deploy
 - Photogrammetry
+- Pix4D
+- DroneDeploy
 - Remote Sensing
-  
-**Professional Skills**
- 
+- Image Processing
+
+### Professional Skills
+
 - Communication
 - Team Collaboration
 - Problem Solving
@@ -185,19 +90,13 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 - Leadership
 - Project Coordination
 
-
->>>>>>> 27b754d98fbdd2486a2eb8b04f1544056fe9a4d8
 </div>
 
 ---
 
 ## Connect
 
-<<<<<<< HEAD
 [GitHub](https://github.com/daniallaadhiambo3-lab){ .md-button }
+
 [LinkedIn](https://linkedin.com/in/Daniella (Grace) Adhiambo){ .md-button }
-=======
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }                                                                                         
-Portfolio updated
->>>>>>> 27b754d98fbdd2486a2eb8b04f1544056fe9a4d8
+```
