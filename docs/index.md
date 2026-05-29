@@ -19,10 +19,17 @@ CHECKLIST FOR THIS PAGE:
 
 
 <div class="hero">
+<<<<<<< HEAD
   <img src="assets/images/profile.png" alt="Daniella Grace Adhiambo" class="profile-photo">
   <h1>Daniella Grace Adhiambo</h1>
   <p><strong>Land Surveyor | Licensed Drone Pilot</strong></p>
   <p><em>Smart Mapping for a Changing World|Land Survey|Drone Mapping|GIS</em></p>
+=======
+  <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
+  <h1>Daniella Grace Adhiambo</h1>
+  <p><strong>Land Surveyor | Licensed Drone Pilot</strong></p>
+  <p><em>Smart Mapping for a Changing World | Land Survey | Drone Mapping | GIS </em></p>
+>>>>>>> 27b754d98fbdd2486a2eb8b04f1544056fe9a4d8
 </div>
 
 ---
@@ -33,7 +40,10 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-text" markdown>
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 27b754d98fbdd2486a2eb8b04f1544056fe9a4d8
 I am a Land Surveyor and Drone Pilot with a background in land surveying and a growing focus on GIS, drone mapping, and spatial data analysis. I specialize in geospatial data collection and modern mapping technologies, using innovative tools to produce accurate spatial information that supports planning and informed decision-making. I am particularly interested in integrating modern survey technology, GIS, and mapping systems to develop efficient solutions for real-world spatial challenges. Beyond technical practice, I enjoy sharing knowledge, engaging with diverse audiences, and contributing to professional growth while continuously expanding my expertise in geospatial innovation and advanced spatial analysis.
 
 
@@ -57,10 +67,20 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 
 <div class="grid cards" markdown>
 
+<<<<<<< HEAD
 - **Technical Skills**
+=======
+**Technical Skills**
+>>>>>>> 27b754d98fbdd2486a2eb8b04f1544056fe9a4d8
 
-    ---
+- Geographic Information Systems (GIS)
+- Land Surveying
+- Remote Sensing
+- Image Processing
+- Drone Mapping and UAV Operations
+- Spatial Data Analysis
 
+<<<<<<< HEAD
     - Geographic Information Systems (GIS)
     - Land Surveying
     - Remote Sensing
@@ -70,9 +90,22 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 
 
 -   :material-code-braces:{ .lg .middle } **GIS Skills**
+=======
 
-    ---
+**GIS SKILLS**
+>>>>>>> 27b754d98fbdd2486a2eb8b04f1544056fe9a4d8
 
+- Spatial Data Analysis
+- Geospatial Data Collection
+- Cartography & Map Design
+- Map Interpretation 
+- Spatial Intelligence
+- Digital Mapping
+- QGIS
+- ArcGIS
+- Google Earth Pro
+
+<<<<<<< HEAD
     - Geospatial Data Collection
     - Cartography & Map Design
     - Map Interpretation
@@ -84,9 +117,18 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 
 
 -   :material-star-four-points:{ .lg .middle } **Land Survey Skills**
+=======
 
-    ---
+**Land Survey Skills**
+>>>>>>> 27b754d98fbdd2486a2eb8b04f1544056fe9a4d8
 
+- GPS & GNSS Surveying
+- Map Interpretation 
+- Topographic Mapping
+- Field Data Collection
+- AutoCAD
+
+<<<<<<< HEAD
     - Topographic Survey
     - GPS & GNSS Surveying
     - Map Interpretation
@@ -122,6 +164,29 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
     - Mission planning and flight operations
     - Photogrammetry: Agisoft Metashape, OpenDroneMap
     - Point cloud processing: CloudCompare, PDAL
+=======
+**Drone Mapping and UAV Operations**
+    
+- Image Processing
+- Mission Planning and Flight Operations
+- Pix4D
+- Drone Deploy
+- Photogrammetry
+- Remote Sensing
+  
+**Professional Skills**
+ 
+- Communication
+- Team Collaboration
+- Problem Solving
+- Attention to Detail
+- Time Management
+- Adaptability
+- Leadership
+- Project Coordination
+
+
+>>>>>>> 27b754d98fbdd2486a2eb8b04f1544056fe9a4d8
 </div>
 
 
@@ -129,5 +194,11 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 
 ## Connect
 
+<<<<<<< HEAD
 [GitHub](https://github.com/daniallaadhiambo3-lab){ .md-button }
 [LinkedIn](https://linkedin.com/in/Daniella (Grace) Adhiambo){ .md-button }
+=======
+[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
+[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }                                                                                         
+Portfolio updated
+>>>>>>> 27b754d98fbdd2486a2eb8b04f1544056fe9a4d8
