@@ -5,9 +5,9 @@ hide:
 ---
 <!--
 CHECKLIST FOR THIS PAGE:
-- [ ] Replace [Daniella Grace Adhiambo] with your full name (3 places)
-- [ ] Replace [Land Surveyor and Licensed Drone Pilot] with your current or target role
-- [ ] Replace [Smart Mapping for a Changing World] with a short phrase describing your focus
+- [ ] Replace [Your Name] with your full name (3 places)
+- [ ] Replace [] with your current or target role
+- [ ] Replace [ss] with a short phrase describing your focus
 - [ ] Rewrite the About Me paragraph with your own words
 - [ ] Replace assets/images/profile.png with your actual photo (keep the filename or update it below)
 - [ ] Replace assets/images/about.png with your own image (a field photo, map, or workspace shot)
@@ -130,4 +130,4 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 ## Connect
 
 [GitHub](https://github.com/daniallaadhiambo3-lab){ .md-button }
-[LinkedIn](https://linkedin.com/in/Daniella (Grace) Adhiambo)ssss{ .md-button }
+[LinkedIn](https://linkedin.com/in/Daniella (Grace) Adhiambo){ .md-button }
