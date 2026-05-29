@@ -189,7 +189,6 @@ I am a Land Surveyor and Drone Pilot with a background in land surveying and a g
 >>>>>>> 27b754d98fbdd2486a2eb8b04f1544056fe9a4d8
 </div>
 
-
 ---
 
 ## Connect
